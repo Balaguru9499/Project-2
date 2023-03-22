@@ -12,7 +12,8 @@ body hr{
 } 
 .whole1{
     position: absolute;
-    filter: blur(2px);
+    filter: blur(3px);
+
 }
 .title{
     color: #00a5ec;
